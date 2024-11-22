@@ -1,8 +1,23 @@
 # Minecraft - Gregtech New Horizons by Kharax82 view stats 2024-11-23
-The point is to show that only a fraction of ppl who start a series actually watch every ep (especially at near the end).
+The point is to show that only a fraction of ppl who start a series actually watch every ep (especially at near the end):
 
-We can see a spike at the beginnig, a spike at the end (final base tour) and a spike at a critical narrative point ("GTNH 
-nearly broke me" video, which sparked a new wave of interest). The rest of data actually shows a gradual dwidling of views,
+![Figure_1.png](Figure_1.png)
+
+We can see a spike at the beginnig (although out of 100k only a quarter of ppl make to second video):
+
+![Figure_4.png](Figure_4.png)
+
+a spike at the end (final base tour)
+and a spike at a critical narrative point ("GTNH 
+nearly broke me" video, which sparked a new wave of interest):
+
+![Figure_3.png](Figure_3.png)
+
+also a spike at "helium plasma build" video:
+
+![Figure_2.png](Figure_2.png)
+
+The rest of data actually shows a gradual dwindling of views,
 as series progress, only hardcore fans are watching each ep (or those who have the series in background).
 
 ## Views per episode:
