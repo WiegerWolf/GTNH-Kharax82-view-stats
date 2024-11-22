@@ -1,5 +1,9 @@
 # Minecraft - Gregtech New Horizons by Kharax82 view stats 2024-11-23
+The point is to show that only a fraction of ppl who start a series actually watch every ep (especially at near the end).
 
+We can see a spike at the beginnig, a spike at the end (final base tour) and a spike at a critical narrative point ("GTNH 
+nearly broke me" video, which sparked a new wave of interest). The rest of data actually shows a gradual dwidling of views,
+as series progress, only hardcore fans are watching each ep (or those who have the series in background).
 
 ## Views per episode:
 
