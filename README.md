@@ -1,4 +1,4 @@
-# Minecraft - Gregtech New Horizons by Kharax82 view stats 2024-11-23
+# [Minecraft - Gregtech New Horizons by Kharax82](https://www.youtube.com/playlist?list=PLliiJ70rl2NvJjby2LoVuP1EuOvRAyf97) view stats 2024-11-23
 The point is to show that only a fraction of ppl who start a series actually watch every ep (especially at near the end):
 
 ![Figure_1.png](Figure_1.png)
