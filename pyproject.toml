@@ -1,0 +1,12 @@
+[project]
+name = "yt-playlist-stats"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.9.2",
+    "pandas",
+    "pytube",
+    "pytubefix>=8.5.1",
+]
