@@ -1,26 +1,33 @@
-# [Minecraft - Gregtech New Horizons by Kharax82](https://www.youtube.com/playlist?list=PLliiJ70rl2NvJjby2LoVuP1EuOvRAyf97) view stats 2024-11-23
-The point is to show that only a fraction of ppl who start a series actually watch every ep (especially at near the end):
+# Minecraft - Gregtech New Horizons by Kharax82: View Statistics Analysis
 
-![Figure_1.png](Figure_1.png)
+An analysis of viewing patterns for the [Gregtech New Horizons YouTube series](https://www.youtube.com/playlist?list=PLliiJ70rl2NvJjby2LoVuP1EuOvRAyf97) as of 2024-11-23.
 
-We can see a spike at the beginnig (although out of 100k only a quarter of ppl make to second video):
+## Key Findings
 
-![Figure_4.png](Figure_4.png)
+This analysis demonstrates that only a fraction of viewers who start a series watch every episode, particularly near the end. The data reveals several notable viewing patterns:
 
-a spike at the end (final base tour)
-and a spike at a critical narrative point ("GTNH 
-nearly broke me" video, which sparked a new wave of interest):
+### 1. Initial Spike
+The series starts with high viewership (110k views) but experiences a sharp drop, with only about 25% of viewers continuing to the second episode:
 
-![Figure_3.png](Figure_3.png)
+![Initial viewership drop](Figure_4.png)
 
-also a spike at "helium plasma build" video:
+### 2. Critical Points
+Several episodes saw significant spikes in viewership:
 
-![Figure_2.png](Figure_2.png)
+- **"GTNH Nearly Broke Me" (Episode 361)** - Sparked renewed interest in the series:
+![Mid-series spike](Figure_3.png)
 
-The rest of data actually shows a gradual dwindling of views,
-as series progress, only hardcore fans are watching each ep (or those who have the series in background).
+- **"Helium Plasma Build" (Episode 200)** - Notable technical milestone:
+![Technical milestone spike](Figure_2.png)
 
-## Views per episode:
+- **Final Base Tour** - Last episode drew significant attention
+
+### 3. Overall Trend
+The data shows a gradual decline in views as the series progresses, with a core audience of dedicated viewers remaining throughout:
+
+![Overall viewing trend](Figure_1.png)
+
+## Raw Data
 
 ```
                                                              title  views
@@ -408,3 +415,14 @@ Gregtech New Horizons - 207 - New Circuit Assembly Building Part 2    607
                Gregtech New Horizons - 382 - Final Episode.......?  31099
                           Gregtech: New Horizons - Final Base Tour  45630
 ```
+
+## Conclusions
+
+The viewing patterns demonstrate typical YouTube series behavior:
+- Strong initial interest
+- Quick drop-off after first few episodes
+- Stable core audience
+- Occasional spikes during significant moments
+- Renewed interest for finale
+
+This pattern suggests that while many viewers are interested in the concept, fewer commit to following the entire series, with only the most dedicated viewers watching all episodes.
